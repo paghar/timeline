@@ -5,7 +5,7 @@ The TimeLine repository serves as a demonstration of manipulating complex API da
 
 #### Complex Data Handling: 
 
-In the [Data component] (https://github.com/paghar/timeLine/blob/feature/master/src/data/data.tsx), you can see `transformStructure function` that illustrates techniques for handling complex data structures and how to transfer complex data to UI data format.
+In the [Data component](https://github.com/paghar/timeLine/blob/feature/master/src/data/data.tsx), you can see `transformStructure function` that illustrates techniques for handling complex data structures and how to transfer complex data to UI data format.
 
 ## Getting Started
 
